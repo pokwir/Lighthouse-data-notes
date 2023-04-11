@@ -6,7 +6,7 @@ This repository contains all of the notes taken by [Patrick Okwir](https://githu
 ## Table of contents
 
 1. [Week 1](Unit_1) 
-    * [Day1](Day_1)
+    * [Day1](Unit_1/Day_1/)
     * Day 2
     * Day 3
     * Day 4
