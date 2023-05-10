@@ -1,0 +1,13 @@
+{
+    "notebook.cellFocusIndicator": "border",
+    "notebook.compactView": true,
+    "notebook.consolidatedRunButton": true,
+    "notebook.diff.enablePreview": true,
+    "notebook.globalToolbar": false,
+    "notebook.globalToolbarShowLabel": "dynamic",
+    "notebook.output.fontSize": 12,
+    "notebook.output.lineHeight": 1.3,
+    "notebook.output.scrolling": true,
+    "notebook.output.textLineLimit": 50,
+    "notebook.output.wordWrap": false
+}
