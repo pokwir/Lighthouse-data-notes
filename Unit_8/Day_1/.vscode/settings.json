@@ -1,0 +1,6 @@
+{
+    "notebook.compactView": false,
+    "notebook.insertToolbarLocation": "betweenCells",
+    "notebook.markup.fontSize": 12,
+    "notebook.output.fontFamily": "Monaco"
+}
