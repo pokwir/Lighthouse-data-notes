@@ -58,11 +58,11 @@ Now, let's transform this plot to enhance comprehension, keep your audience enga
 <br>
 <br>
 
-## **Grammr of graphics**
+## **Grammar of graphics**
 <br>
 <br>
 
-Whats grammer of graphics you may ask.
+Whats the grammar of graphics, you may ask.
 <br>
 
 The grammar of graphics is an approach to data visualization API design that diverges in the extreme from that followed by other libraries like matplotlib, plotply, etc.
@@ -120,13 +120,13 @@ p = ggplot(df, aes(x='gdp_cap', y='life_exp', color='continent', size = 'populat
 p
 ```
 
-First, I instanciate the ggplot figure. and pass in my dataframe and the axes `aes`. I'm plotting gdp, life expectancy and the size of my geometry points (dots in this case) — population and coloring by continent.
+First, I instantiate the ggplot figure. and pass in my dataframe and the axes `aes`. I'm plotting gdp, life expectancy and the size of my geometry points (dots in this case) — population and coloring by continent.
 <br>
 
-Second I adjust the geometry of the figure (geom_pint, this is a scatter plot, the geometry is a dot or circle) and pass in alpha value, legend, and the most important argument stat = identity. The stat argument lets you create satistics from the data points, in this case I want the raw values (identity).
+Second I adjust the geometry of the figure (geom_pint, this is a scatter plot, the geometry is a dot or circle) and pass in an alpha value, legend, and the most important argument stat = identity. The stat argument lets you create statistics from the data points; in this case, I want the raw values (identity).
 <br>
 
-Third is adjusting the aesthetics of the figure. The color theme, you can change the color to whatever you like or aligns with your presentation theme. The canvas theme, I used classic (no grid lines and simple interface). The fith line is the flavour of the canvas, you can think of it as the theme too, I like high contrast dark for the black background that makes the colours pop and its easy to the eyes if you are presenting on zoom. The last two line are for the labels and size of the plot.
+like or aligns with your presentation theme. For the canvas theme, I used classic (no grid lines and simple interface). The fifth line is the flavor of the canvas; you can think of it as the theme, too, I like high contrast dark for the black background that makes the colors pop, and it's easy to the eyes if you are presenting on Zoom. The last two lines are for the labels and size of the plot.
 <br>
 
 And viola
