@@ -29,7 +29,7 @@ from lets_plot import *
 LetsPlot.setup_html()
 ```
 
-The data im using is available at this link:
+The data im using is available at this [link](gapminder_full.csv):
 
 ```python
 data = 'your link to local file in file system here'
